@@ -1,0 +1,4 @@
+<configuration>
+    <!-- Отключаем все логи -->
+    <root level="OFF"/>
+</configuration>
